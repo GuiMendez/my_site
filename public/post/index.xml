@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Projects on </title>
-    <link>http://localhost:1313/ist199950/post/</link>
+    <link>http://web.tecnico.ulisboa.pt/ist199950/post/</link>
     <description>Recent content in Projects on </description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <lastBuildDate>Fri, 01 Mar 2024 13:58:39 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/ist199950/post/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://web.tecnico.ulisboa.pt/ist199950/post/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Project 1</title>
-      <link>http://localhost:1313/ist199950/post/project-1/</link>
+      <link>http://web.tecnico.ulisboa.pt/ist199950/post/project-1/</link>
       <pubDate>Fri, 01 Mar 2024 13:58:39 +0000</pubDate>
-      <guid>http://localhost:1313/ist199950/post/project-1/</guid>
+      <guid>http://web.tecnico.ulisboa.pt/ist199950/post/project-1/</guid>
       <description></description>
     </item>
   </channel>
