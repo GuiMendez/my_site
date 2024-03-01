@@ -1,5 +1,5 @@
 title = ""
-baseURL = "https://gohugo-theme-ananke.pages.dev"
+BaseURL = "http://web.tecnico.ulisboa.pt/ist199950/
 languageCode = "en-us"
 theme = "ananke"
 resourceDir = "../resources"
@@ -32,9 +32,6 @@ enableRobotsTXT = true
   background_color_class = "bg-black"
   recent_posts_number = 3
 
-[[params.ananke_socials]]
-name = "twitter"
-url = "https://twitter.com/GoHugoIO"
 
 [[menu.main]]
   name = "Home"
@@ -46,12 +43,8 @@ url = "https://twitter.com/GoHugoIO"
   url = "/about"
   weight = 20
 
-[[menu.main]]
-  name = "Contact"
-  url = "/contact"
-  weight = 40
-
-  [[menu.main]]
+ [[menu.main]]
   name = "News"
   url = "/News"
-  weight = 50
+  weight = 40
+
