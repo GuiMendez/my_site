@@ -1,5 +1,5 @@
 title = ""
-BaseURL = "http://web.tecnico.ulisboa.pt/ist199950/
+BaseURL = "http://web.tecnico.ulisboa.pt/ist199950/"
 languageCode = "en-us"
 theme = "ananke"
 resourceDir = "../resources"
